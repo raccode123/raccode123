@@ -21,7 +21,9 @@ This coding task covers various aspects of Python programming, including numeric
 ### Installation
 To run the code for Task 03, you need Python installed on your system. Additionally, ensure that you have the `math` module installed. You can install it using the following command:
 
+``` py
 pip install math
+```
 
 ### Usage
 1. Clone the repository to your local machine.
